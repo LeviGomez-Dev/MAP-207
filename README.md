@@ -10,7 +10,7 @@ The system uses a **Cartesian Manipulator (X-Y axis)** and a vacuum-based grippe
 3. **Execute:** Pick and place the piece in the designated storage area.
 
 ## 📂 Repository Contents
-- [Documentation/PROGRAMACION-LEVI PROYECTO.pdf:](https://github.com/LeviGomez-Dev/MAP-207/blob/main/Documentation/PROGRAMACION-LEVI%20PROYECTO.pdf) :Technical manuals and my PDF report (`PROGRAMACION-LEVI PROYECTO.pdf`).
+- [Documentation/PROGRAMACION-LEVI PROYECTO.pdf:](https://github.com/LeviGomez-Dev/MAP-207/blob/main/Documentation/PROGRAMACION-LEVI%20PROYECTO.pdf) : Technical manuals and my PDF report (`PROGRAMACION-LEVI PROYECTO.pdf`).
 - [Documentation/CLASIFICACIÓN DE MATERIAL-LEVI PROYECTO.pdf:](https://github.com/LeviGomez-Dev/MAP-207/blob/main/Documentation/CLASIFICACI%C3%93N%20DE%20MATERIAL-LEVI%20PROYECTO.pdf) : Full project in PDF report (`CLASIFICACIÓN DE MATERIAL-LEVI PROYECTO.pdf`)
 - `/Source`: The original PLC code logic.
 
