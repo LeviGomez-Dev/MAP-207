@@ -14,6 +14,6 @@ The system uses a **Cartesian Manipulator (X-Y axis)** and a vacuum-based grippe
 - `/Videos`: Clip showing the system in full operation.
 - `/Source`: The original PLC code logic.
 
-## 💡 Why this matters for Software Engineering?[CLASIFICACIÓN DE MATERIAL-LEVI PROYECTO.pdf](https://github.com/user-attachments/files/24387706/CLASIFICACION.DE.MATERIAL-LEVI.PROYECTO.pdf)
+## 💡 Why this matters for Software Engineering?
 
 Even though this uses PLC languages, it follows the same principles as modern software: **Modular programming, Error handling, and State Machines.** I am currently translating this logic into a **Python Simulation** to demonstrate code parity.
