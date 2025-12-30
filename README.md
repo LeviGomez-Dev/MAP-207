@@ -17,7 +17,7 @@ The system uses a **Cartesian Manipulator (X-Y axis)** and a vacuum-based grippe
 ## 📺 Project Demo
 Due to the high quality and size of the technical demonstration, the video is hosted on Google Drive.
 
-👉 **[Watch the MAP-207 System in Action here]((https://drive.google.com/file/d/1xEPTQ1GfiPoXo9qGhGpLXaaYjzsw-NBV/view?usp=drive_link))**
+👉 **[Watch the MAP-207 System in Action here](https://drive.google.com/file/d/1xEPTQ1GfiPoXo9qGhGpLXaaYjzsw-NBV/view?usp=drive_link)**
 
 *The video demonstrates the complete cycle: piece detection, vacuum gripping, XY displacement, and final classification.*
 
